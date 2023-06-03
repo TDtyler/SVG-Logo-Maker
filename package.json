@@ -1,4 +1,13 @@
 {
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "node.js command line app to generate logos",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "jest"
+  },
+
   "dependencies": {
     "inquirer": "^9.2.6",
     "node": "^20.2.0"
